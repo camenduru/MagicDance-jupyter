@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MagicDance-jupyter/blob/main/MagicDance_jupyter.ipynb) | MagicDance_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MagicDance-jupyter/blob/main/MagicDance_jupyter.ipynb) | MagicDance_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/Boese0601/MagicDance
